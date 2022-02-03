@@ -1,16 +1,30 @@
 import requests
+import os
 
 
-def convert(v):
-    res = requests.get("https://economia.awesomeapi.com.br/last/USD-BRL").json()[
-        "USDBRL"
-    ]
+class app:
+    def __init__(self):
+        os.system("cls")
 
-    cotação = (float(res["high"]) + float(res["low"])) / 2
+        print("Conversor de moedas")
 
-    return v * cotação
+        value = input("Valor: ")
+
+        res = self.converter(value)
+
+        print(res)
+
+    def converter(self, v):
+        res = requests.get("https://economia.awesomeapi.com.br/last/USD-BRL").json()[
+            "USDBRL"
+        ]
+
+        cotação = (float(res["high"]) + float(res["low"])) / 2
+
+        try:
+            return "%.2f" % (float(v) * cotação)
+        except:
+            return "Valor inválido"
 
 
-value = input("Valor: ")
-
-print(convert(float(value)))
+app()

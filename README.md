@@ -1,6 +1,6 @@
 # Python little projects
 
-Projetos simples com pyrhon
+Projetos simples com python
 
 ## License
 
