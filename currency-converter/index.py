@@ -7,9 +7,11 @@ class app:
     options = {}
     names = {}
 
+    # Selecionando as moedas
     with open("list.json", "r", encoding="utf-8") as f:
         options = json.loads(f.read())
 
+    # Selecionando os nomes das moedas
     with open("names.json", "r", encoding="utf-8") as f:
         names = json.loads(f.read())
 
@@ -18,9 +20,11 @@ class app:
 
         print("Conversor de moedas")
 
+        # Listar moedas
         for k, _ in self.options.items():
             print(f"{self.names[k]}: {k}")
 
+        # Receber moeda válida
         while True:
             f = input("Escolha uma das moedas acima da qual quer converter: ")
 
@@ -29,9 +33,11 @@ class app:
             else:
                 print("Escolha uma moeda válida")
 
+        # Listar moedas disponiveis
         for i in self.options[f]:
             print(f"{self.names[i]}: {i}")
 
+        # Receber moeda para qual converter válida
         while True:
             t = input("Escolha uma das moedas acima para qual quer converter: ")
 
@@ -40,6 +46,7 @@ class app:
             else:
                 print("Escolha uma moeda válida")
 
+        # Receber valor válido
         while True:
             v = input("Valor: ")
 
@@ -55,7 +62,7 @@ class app:
         print(res)
 
     def converter(self, v, f, t):
-        """[summary]
+        """Converter moedas
 
         Args:
             v (float): Valor a converter
