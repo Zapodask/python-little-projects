@@ -1,0 +1,583 @@
+{
+  "EUR": [
+    "USD",
+    "NOK",
+    "HUF",
+    "CNY",
+    "GNF",
+    "IDR",
+    "IRR",
+    "NAD",
+    "NIO",
+    "UAH",
+    "UYU",
+    "AZN",
+    "SEK",
+    "BBD",
+    "CVE",
+    "HNL",
+    "KZT",
+    "LBP",
+    "MOP",
+    "PAB",
+    "PGK",
+    "PHP",
+    "PYG",
+    "RWF",
+    "SDR",
+    "VND",
+    "MZN",
+    "AMD",
+    "GEL",
+    "JOD",
+    "LSL",
+    "RSD",
+    "XAF",
+    "XPF",
+    "CHF",
+    "SGD",
+    "HKD",
+    "BIF",
+    "BSD",
+    "FJD",
+    "MRO",
+    "NPR",
+    "UGX",
+    "CAD",
+    "TRY",
+    "AFN",
+    "BDT",
+    "BZD",
+    "CRC",
+    "MDL",
+    "SVC",
+    "XOF",
+    "PLN",
+    "KRW",
+    "BYN",
+    "CLP",
+    "ISK",
+    "LKR",
+    "MWK",
+    "SOS",
+    "STD",
+    "BRL",
+    "DKK",
+    "MXN",
+    "CUP",
+    "HRK",
+    "XCD",
+    "RUB",
+    "BHD",
+    "GHS",
+    "KYD",
+    "MYR",
+    "SDG",
+    "SYP",
+    "SZL",
+    "ARS",
+    "COP",
+    "GTQ",
+    "MKD",
+    "MMK",
+    "OMR",
+    "TZS",
+    "AED",
+    "ANG",
+    "KHR",
+    "MGA",
+    "NGN",
+    "QAR",
+    "JPY",
+    "AUD",
+    "NZD",
+    "CZK",
+    "ALL",
+    "GMD",
+    "LAK",
+    "LYD",
+    "PEN",
+    "SCR",
+    "TND",
+    "TWD",
+    "AOA",
+    "GBP",
+    "ILS",
+    "BOB",
+    "DOP",
+    "EGP",
+    "INR",
+    "PKR",
+    "RON",
+    "SAR",
+    "TTD",
+    "ZAR",
+    "BGN",
+    "BND",
+    "DJF",
+    "IQD",
+    "ZMK",
+    "BAM",
+    "BWP",
+    "ETB",
+    "JMD",
+    "KWD",
+    "MAD",
+    "THB",
+    "DZD",
+    "HTG",
+    "KES",
+    "MUR",
+    "UZS",
+    "VEF",
+    "TJS"
+  ],
+  "DOGE": [
+    "EUR",
+    "USD",
+    "BRL"
+  ],
+  "USD": [
+    "PLN",
+    "BND",
+    "HRK",
+    "SZL",
+    "TJS",
+    "RUB",
+    "ZAR",
+    "SEK",
+    "GMD",
+    "MAD",
+    "RSD",
+    "SVC",
+    "YER",
+    "KGS",
+    "NGNI",
+    "DKK",
+    "THB",
+    "ALL",
+    "BIF",
+    "GNF",
+    "LAK",
+    "NGN",
+    "PKR",
+    "ZWL",
+    "JOD",
+    "ARS",
+    "BHD",
+    "CNY",
+    "ETB",
+    "IRR",
+    "KZT",
+    "MKD",
+    "MOP",
+    "MYR",
+    "NIO",
+    "TTD",
+    "VUV",
+    "AOA",
+    "SGD",
+    "CZK",
+    "AMD",
+    "BDT",
+    "BGN",
+    "ISK",
+    "LSL",
+    "MGA",
+    "PGK",
+    "UZS",
+    "MZN",
+    "GTQ",
+    "JMD",
+    "MUR",
+    "NAD",
+    "SCR",
+    "ZMK",
+    "TMT",
+    "KRW",
+    "HNL",
+    "KMF",
+    "PHP",
+    "VND",
+    "HUF",
+    "GBP",
+    "LBP",
+    "OMR",
+    "RON",
+    "XCD",
+    "XOF",
+    "FJD",
+    "IQD",
+    "KHR",
+    "XPF",
+    "BRLT",
+    "CHF",
+    "HKD",
+    "AUD",
+    "COP",
+    "IDR",
+    "LYD",
+    "VEF",
+    "TRY",
+    "MXN",
+    "ILS",
+    "INR",
+    "NZD",
+    "QAR",
+    "SOS",
+    "NOK",
+    "KWD",
+    "CRC",
+    "MMK",
+    "PAB",
+    "PYG",
+    "SYP",
+    "BRL",
+    "DZD",
+    "GHS",
+    "MWK",
+    "NPR",
+    "RWF",
+    "SDG",
+    "XAF",
+    "BYN",
+    "AZN",
+    "CNH",
+    "EUR",
+    "JPY",
+    "SAR",
+    "ANG",
+    "CLP",
+    "CUP",
+    "UGX",
+    "BBD",
+    "BOB",
+    "BSD",
+    "BZD",
+    "DOP",
+    "LKR",
+    "MDL",
+    "PEN",
+    "TND",
+    "TWD",
+    "UAH",
+    "MNT",
+    "AFN",
+    "CAD",
+    "AED",
+    "BWP",
+    "EGP",
+    "GEL",
+    "HTG",
+    "KES",
+    "MVR",
+    "TZS",
+    "UYU"
+  ],
+  "SAR": [
+    "USD",
+    "EUR",
+    "BRL"
+  ],
+  "UAH": [
+    "USD"
+  ],
+  "IQD": [
+    "USD"
+  ],
+  "BRL": [
+    "AUD",
+    "AED",
+    "BHD",
+    "SAR",
+    "CHF",
+    "DKK",
+    "JMD",
+    "LKR",
+    "MAD",
+    "NOK",
+    "RON",
+    "RUB",
+    "UYU",
+    "CZK",
+    "BBD",
+    "THB",
+    "TWD",
+    "EUR",
+    "NPR",
+    "PEN",
+    "GBP",
+    "OMR",
+    "JPY",
+    "MXN",
+    "IDR",
+    "JOD",
+    "MYR",
+    "LBP",
+    "SEK",
+    "XAF",
+    "USD",
+    "CAD",
+    "CNY",
+    "HUF",
+    "ILS",
+    "KRW",
+    "NZD",
+    "VEF",
+    "ARS",
+    "EGP",
+    "INR",
+    "PHP",
+    "HKD",
+    "KES",
+    "PLN",
+    "COP",
+    "CLP",
+    "ZAR",
+    "PAB",
+    "BOB",
+    "SGD",
+    "PKR",
+    "QAR",
+    "ISK",
+    "NAD",
+    "TRY",
+    "XCD",
+    "XOF",
+    "PYG"
+  ],
+  "GBP": [
+    "BRL",
+    "USD",
+    "EUR"
+  ],
+  "CHF": [
+    "EUR",
+    "BRL",
+    "USD"
+  ],
+  "AED": [
+    "USD",
+    "BRL",
+    "EUR"
+  ],
+  "INR": [
+    "USD",
+    "EUR",
+    "BRL"
+  ],
+  "NOK": [
+    "BRL",
+    "USD",
+    "EUR"
+  ],
+  "MXN": [
+    "EUR",
+    "BRL",
+    "USD"
+  ],
+  "BTC": [
+    "BRL",
+    "EUR",
+    "USD"
+  ],
+  "DKK": [
+    "USD",
+    "BRL",
+    "EUR"
+  ],
+  "BOB": [
+    "USD",
+    "BRL"
+  ],
+  "IDR": [
+    "USD",
+    "EUR"
+  ],
+  "NZD": [
+    "BRL",
+    "USD",
+    "EUR"
+  ],
+  "GEL": [
+    "EUR"
+  ],
+  "XAGG": [
+    "EUR",
+    "USD"
+  ],
+  "ETH": [
+    "BRL",
+    "USD",
+    "EUR"
+  ],
+  "EGP": [
+    "USD",
+    "EUR"
+  ],
+  "THB": [
+    "USD",
+    "BRL"
+  ],
+  "SYP": [
+    "USD"
+  ],
+  "COP": [
+    "BRL",
+    "USD"
+  ],
+  "RUB": [
+    "BRL",
+    "USD",
+    "EUR"
+  ],
+  "ZAR": [
+    "EUR",
+    "BRL",
+    "USD"
+  ],
+  "CNY": [
+    "BRL",
+    "USD",
+    "EUR"
+  ],
+  "CAD": [
+    "USD",
+    "BRL",
+    "EUR"
+  ],
+  "KWD": [
+    "USD",
+    "EUR"
+  ],
+  "HUF": [
+    "USD",
+    "EUR"
+  ],
+  "AUD": [
+    "USD",
+    "EUR",
+    "BRL"
+  ],
+  "LTC": [
+    "USD",
+    "BRL",
+    "EUR"
+  ],
+  "ILS": [
+    "EUR",
+    "USD",
+    "BRL"
+  ],
+  "XRP": [
+    "EUR",
+    "BRL",
+    "USD"
+  ],
+  "TRY": [
+    "USD",
+    "BRL",
+    "EUR"
+  ],
+  "VND": [
+    "USD"
+  ],
+  "PLN": [
+    "BRL",
+    "EUR",
+    "USD"
+  ],
+  "SGD": [
+    "EUR",
+    "BRL",
+    "USD"
+  ],
+  "JPY": [
+    "USD",
+    "BRL",
+    "EUR"
+  ],
+  "GHS": [
+    "USD",
+    "EUR"
+  ],
+  "BYN": [
+    "USD",
+    "EUR"
+  ],
+  "AFN": [
+    "USD"
+  ],
+  "IRR": [
+    "USD"
+  ],
+  "PYG": [
+    "BRL",
+    "USD"
+  ],
+  "BHD": [
+    "EUR"
+  ],
+  "JOD": [
+    "EUR",
+    "USD"
+  ],
+  "FJD": [
+    "USD"
+  ],
+  "NIO": [
+    "USD"
+  ],
+  "XBR": [
+    "USD"
+  ],
+  "HKD": [
+    "BRL",
+    "USD",
+    "EUR"
+  ],
+  "SEK": [
+    "EUR",
+    "USD",
+    "BRL"
+  ],
+  "UYU": [
+    "USD",
+    "BRL"
+  ],
+  "ARS": [
+    "EUR",
+    "USD",
+    "BRL"
+  ],
+  "KYD": [
+    "USD"
+  ],
+  "MYR": [
+    "USD"
+  ],
+  "PEN": [
+    "EUR",
+    "USD",
+    "BRL"
+  ],
+  "PHP": [
+    "USD"
+  ],
+  "TWD": [
+    "BRL",
+    "USD",
+    "EUR"
+  ],
+  "MAD": [
+    "EUR"
+  ],
+  "CLP": [
+    "USD",
+    "BRL"
+  ],
+  "KRW": [
+    "USD",
+    "EUR"
+  ]
+}
